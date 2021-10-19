@@ -12,3 +12,8 @@ to the second, and 0.3 to the third.<br>
 multiple of 7.<br>
 (d) aTx (with x an 11-vector) is the average of the middle five entries of x, i.e., entries 4 to 8.<br>
 
+### Problem statement A.1.6
+A particular computer can compute the inner product of two 106-vectors in around 0.001 second.
+The same computer can compute the inner product of two 107-vectors in (approximately) how
+long?
+
