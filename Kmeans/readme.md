@@ -54,7 +54,7 @@ julia> dictionary[sortperm(centroids[7],rev=true)]
 (a) For each of k = 2, k = 5, and k = 10 run k-means twice, and plot J (vertically) versus
 iteration (horizontally) for the two runs on the same plot. Create your plot by passing a
 vector containing the value of J at each iteration to PyPlot’s plot function. Comment briefly
-on your results.
+on your results.<br>
 (b) Choose a value of k from part (a) and investigate your results by looking at the words and
 article titles associated with each centroid. Feel free to visit Wikipedia if an article’s content
 is unclear from its title. Give a short description of the topics your clustering discovered along
