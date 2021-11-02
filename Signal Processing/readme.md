@@ -1,3 +1,5 @@
+## Homework 4
+### Problem statement A.7.1
 Equalization in communication. Run the file channel_equalization_data.jl, which will define
 a message s, a channel c, and an equalizer h. (Your are welcome to look inside the file to see how
 we designed the equalizer.)
